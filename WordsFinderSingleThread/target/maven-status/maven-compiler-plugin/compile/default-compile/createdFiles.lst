@@ -1,0 +1,3 @@
+processors/FileProcessor.class
+WordCounts.class
+processors/LineProcessor.class

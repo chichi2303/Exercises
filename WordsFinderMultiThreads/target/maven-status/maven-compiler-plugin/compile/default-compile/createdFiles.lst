@@ -1,0 +1,6 @@
+WordCounts.class
+processors/PrintOutput.class
+processors/LineProcessor.class
+processors/FileProcessingManager.class
+processors/Result.class
+processors/FileProcessor.class
